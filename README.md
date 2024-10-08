@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RuhanAhmed
-- 👀 I’m interested in Game Dev
-- 🌱 I’m currently learning Shader Programming
-- 📫 How to reach me: ruhanahmed.aqua@gmail.com
+- 👀 I’m a Game Developer with 10+ Years working in Unity
+- 🌱 I know C# and HLSL Shader Programming
 
 <!---
 RuhanAhmed/RuhanAhmed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
